@@ -15,7 +15,7 @@ window.onload = function () {
 }
 let score = 0;
 function setgame() {
-    for (let i = 0; i < 9; i++) {
+    for (let i = 0; i < 9; i++) {``
         let tile = document.createElement("div");
         tile.id = i.toString();
         tile.classList.add("tile");
