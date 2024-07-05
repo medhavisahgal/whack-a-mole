@@ -21,6 +21,9 @@ Welcome to the Whack-a-Mole game! This is a fun and interactive game built using
   ## Installation
    To run the game locally, follow these steps:
   1. Clone the repository:
+     ```bash
+     git clone https://github.com/your-username/whack-a-mole.git
+     ```
      
   
 
