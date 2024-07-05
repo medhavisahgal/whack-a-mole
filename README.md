@@ -1,24 +1,17 @@
 # Whack a Mole Game :computer:
 Welcome to the Whack-a-Mole game! This is a fun and interactive game built using HTML, CSS, and JavaScript.
-## Table of Contents :page_with_curl:
-- Demo
-- Features
-- Installation
-- Usage
-- Contributing
-- License
-  ## Demo :bomb:
+## Demo :bomb:
   Check out the live demo of the game [here](https://rad-croquembouche-a10557.netlify.app/).
   
   ![screenshot Whack A Mole game](https://github.com/medhavisahgal/whack-a-mole/blob/master/Whack%20A%20Mole.png)
 
-  ## Features :sunglasses:
+## Features :sunglasses:
   - Interactive gameplay with custom cursor functionality.
   - Automatic start when the game is opened.
   - Game stops when a bomb is clicked.
   - Responsive design for various screen sizes.
 
-  ## Installation :robot:
+## Installation :robot:
    To run the game locally, follow these steps:
   1. Clone the repository:
      ```bash
@@ -29,7 +22,7 @@ Welcome to the Whack-a-Mole game! This is a fun and interactive game built using
      cd whack-a-mole
      ```
   3. Open index.html in your web browser.
-  ## Usage :briefcase:
+## Usage :briefcase:
   - Open the game in your web browser.
   - The game will automatically start when opened.
   - Whack the moles that pop up by clicking on them with your custom cursor.
